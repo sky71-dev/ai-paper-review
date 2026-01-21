@@ -1,2 +1,5 @@
-theme: minimal-mistakes-jekyll
-baseurl: "/ai-paper-review"
+title: ai-paper-review
+remote_theme: "mmistakes/minimal-mistakes"
+
+plugins:
+  - jekyll-include-cache
