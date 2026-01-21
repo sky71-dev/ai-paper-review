@@ -50,7 +50,7 @@ title: "Survey on Knowledge Distillation for Large Language Models: Methods, Eva
 ### Hint-based KD
 
 logit 기반 지식 중류에서는 지식 추출 능력에 한계가 있음. Hint-based KD에서는 결과 뿐만 아니라 중간 레이어 표현을 학습한다. 
-![[ai-paper-review/assets/2026-01-22-distillation/image 1.png]]
+![image]({{ site.baseurl }}/assets/2026-01-22-distillation/image 1.png)
 
 - F: 중간 레이어 feature map
 - ϕ: student feature의 차원을 teacher feature와 맞춰 주는 변환 함수(예: 1x1 conv, 선형 projection 등)
