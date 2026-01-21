@@ -1,2 +1,5 @@
-theme: alembic-jekyll-theme
+remote_theme: daviddarnes/alembic
+
+plugins:
+  - jekyll-include-cache
 baseurl: "/ai-paper-review"
