@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Survey on Knowledge Distillation for Large Language Models: Methods, Evaluation, and Application"
+tags: [Survey, LLM, Distillation, ICCV]
 ---
 # Survey on Knowledge Distillation for Large Language Models: Methods, Evaluation, and Application
 
