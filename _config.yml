@@ -1,2 +1,3 @@
 theme: minima
 baseurl: "/ai-paper-review"
+future: true
